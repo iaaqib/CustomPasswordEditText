@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomPasswordEditText">
+        <attr name="text" format="string" />
+        <attr name="onshowstate_background" format="reference" />
+        <attr name="onhidestate_background" format="reference" />
+        <attr name="hint" format="string" />
+        <attr name="password_mask" format="string" />
+        <attr name="onshowstatetoggle_text" format="string" />
+        <attr name="onhidestatetoggle_text" format="string" />
+        <attr name="text_color" format="color" />
+        <attr name="hint_color" format="color" />
+    </declare-styleable>
+
+
+</resources>
